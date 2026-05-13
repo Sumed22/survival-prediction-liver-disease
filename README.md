@@ -113,12 +113,10 @@ survival-prediction-liver-disease/
 │   └── analysis_pipeline.R
 │
 ├── figures/
-│   ├── km_curve.png
-│   ├── model_comparison.png
-│   └── variable_importance.png
-│
-└── results/
-    └── summary_results.csv
+    ├── km_curve.png
+    ├── model_comparison.png
+    └── event_distribution.png
+
 ```
 
 ---
