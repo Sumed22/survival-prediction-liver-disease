@@ -163,7 +163,7 @@ install.packages(c(
 Then run the analysis script:
 
 ```r
-source("scripts/analysis_pipeline.R")
+source("scripts/LiverAnalysis.R")
 ```
 
 The expected workflow includes:
