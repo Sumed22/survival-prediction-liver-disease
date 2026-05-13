@@ -14,7 +14,7 @@ Survival prediction is important in clinical decision-making because it helps es
 
 In this project, the event of interest is **all-cause mortality**, with transplant cases treated as right-censored observations. The analysis compares different modelling strategies using time-to-event data from liver disease patients.
 
-The full thesis compares 15 predefined predictor combinations across four predictor domains: laboratory measurements, bile acid profiles, Raman spectroscopy features, and clinical characteristics. :contentReference[oaicite:0]{index=0}
+The full thesis compares 15 predefined predictor combinations across four predictor domains: laboratory measurements, bile acid profiles, Raman spectroscopy features, and clinical characteristics.
 
 ---
 
